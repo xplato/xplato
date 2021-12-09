@@ -6,5 +6,6 @@ With that said, I'm spending lots of time working on open-source projects for my
 
 ### Stuff I'm working on
 
-- [Supervisor](https://github.com/Infinium8/Supervisor)
-- [JupiterUI](https://github.com/Infinium8/JupiterUI)
+- [useUndoable](https://github.com/Infinium8/useUndoable): React hook for undo/redo-ing state changes.
+- [Supervisor](https://github.com/Infinium8/Supervisor): Watch directories for changes, invoke scripts.
+- [JupiterUI](https://github.com/Infinium8/JupiterUI): An elegant and reliable UI kit for web artisans.
