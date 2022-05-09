@@ -4,4 +4,4 @@ I'm a software engineer based out of Salt Lake City. I spent 90% of my time work
 
 My personal website is [xplato.dev.](https://xplato.dev)
 
-For personal projects, I use [Codeberg.](https://codeberg.org/athena)
+For personal projects, I use [Codeberg.](https://codeberg.org/xplato)
