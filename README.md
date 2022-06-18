@@ -10,5 +10,5 @@ If you have any questions, would like to discuss a new project idea or something
 
 ### Recent Projects
 
-- [Crystal](https://xplato.dev/crystal) — A conceptual experimentation in futuristic UI/UX.
+- [Avalon](https://xplato.dev/avalon) — A conceptual experimentation in futuristic UI/UX.
 - [Gofë](https://codeberg.org/ar324/gofe) — A private wrapper for Google Search. Get Google's results while remaining anonymous.
