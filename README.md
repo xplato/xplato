@@ -12,3 +12,4 @@ If you have any questions, would like to discuss a new project idea or something
 
 - [Avalon](https://xplato.dev/avalon) — A conceptual experimentation in futuristic UI/UX.
 - [Gofë](https://codeberg.org/ar324/gofe) — A private wrapper for Google Search. Get Google's results while remaining anonymous.
+- [useUndoable](https://github.com/Infinium8/useUndoable) — A React package for undo/redo functionality with an API similar to `useState`
