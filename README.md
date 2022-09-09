@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm Tristan, a software engineer & designer based out of Salt Lake City. My specialties include TypeScript, React, UI/UX Design, and more.
+I'm Tristan, a software engineer && designer based out of Salt Lake City. My specialties include TypeScript, React, UI/UX Design, and more.
 
 #### Links
 
